@@ -14,7 +14,7 @@
 <p align="center"><strong>Course No</strong>: CSE 486 <strong>Sec</strong><strong>:</strong> 01</p>
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (SAS3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
-<p align="center"><strong>Name</strong><strong>:</strong> Shawon Arefin </p>
+<p align="center"><strong>Name</strong><strong>:</strong>Shaikh Shawon Arefin Shimon</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>182005840</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:shaikh.shimon@northsouth.edu">shaikh.shimon@northsouth.edu</a></p>
 

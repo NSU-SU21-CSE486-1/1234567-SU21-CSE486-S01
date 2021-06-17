@@ -18,7 +18,7 @@
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>182005840</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:shaikh.shimon@northsouth.edu">shaikh.shimon@northsouth.edu</a></p>
 
-<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SU21-CSE486-1/1234567-SU21-CSE486-S01/">https://github.com/NSU-SU21-CSE486-1/1234567-SU21-CSE486-S01/</a></p>
+<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/NSU-SU21-CSE486-1/SAS3-SU21-CSE486-S01">https://github.com/NSU-SU21-CSE486-1/SAS3-SU21-CSE486-S01</a></p>
 
 <p align="center"><strong>Date Prepared</strong><strong>: </strong>June 17, 2021</p>
 <p><strong>&nbsp;</strong></p>
